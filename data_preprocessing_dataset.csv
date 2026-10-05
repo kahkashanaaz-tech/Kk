@@ -1,0 +1,6 @@
+Age,Salary,Department,Years of Experience
+22.0,25000.0,IT,1.0
+25.0,,HR,2.0
+,35000.0,IT,3.0
+28.0,40000.0,,
+30.0,45000.0,Sales,5.0
